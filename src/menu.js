@@ -3,4 +3,4 @@ const menuBody = () => {
     body.textContent = '';
 }
 
-export { newTab };
+export { menuBody };
